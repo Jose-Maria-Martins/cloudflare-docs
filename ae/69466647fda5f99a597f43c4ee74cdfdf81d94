@@ -1,0 +1,21 @@
+src/content/docs/cloudflare-one/data-loss-prevention/detection-entries/predefined-detection-entries.mdx
+  s_a7ba517692a314::t_877bb07a3eea02 35,61,98,101
+src/content/docs/cloudflare-one/data-loss-prevention/dlp-profiles/predefined-profiles.mdx
+  s_a7ba517692a314::t_8f72ee88678ec9 67,104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ae69466647fda5f99a597f43c4ee74cdfdf81d94",
+  "prompts": {},
+  "sessions": {
+    "s_a7ba517692a314": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0b4654d19ffeGZJPBYcHWhM09q",
+        "model": "gpt-5.6"
+      },
+      "human_author": "Jose Martins <jmartins@cloudflare.com>"
+    }
+  }
+}
