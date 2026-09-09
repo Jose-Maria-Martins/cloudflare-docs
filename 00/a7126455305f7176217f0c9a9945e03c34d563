@@ -1,0 +1,27 @@
+src/content/docs/cloudflare-one/data-loss-prevention/dlp-policies/index.mdx
+  s_0d717a682993aa::t_149ac5507897dd 17-19,51
+src/content/docs/cloudflare-one/data-loss-prevention/dlp-profiles/index.mdx
+  s_0d717a682993aa::t_8f049dec21279d 28-29
+src/content/docs/cloudflare-one/data-loss-prevention/index.mdx
+  s_0d717a682993aa::t_6e7de4eb51a577 34,36,38
+src/content/docs/cloudflare-one/insights/analytics/data-analytics.mdx
+  s_0d717a682993aa::t_d8783d3924b562 13,32-33
+src/content/docs/cloudflare-one/insights/analytics/passive-detection.mdx
+  s_0d717a682993aa::t_c8a1c0cdf7112c 1-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "00a7126455305f7176217f0c9a9945e03c34d563",
+  "prompts": {},
+  "sessions": {
+    "s_0d717a682993aa": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0e14f2935ffeMh432ehuxz0tK3",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Jose Martins <jmartins@cloudflare.com>"
+    }
+  }
+}
